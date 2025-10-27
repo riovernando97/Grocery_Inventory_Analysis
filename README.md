@@ -3,7 +3,7 @@
 Menganalisis kinerja penjualan, efisiensi manajemen stok, serta kinerja supplier dari data inventori toko grosir untuk membantu pengambilan keputusan operasional yang lebih efisien.
 
 ## Dataset
-- <a href = https://github.com/riovernando97/Documenting_Example/blob/73565fb63e79686b927651447e1b84c19bdaaaa7/CoffeeSalesData.xlsx>Coffee_Sales_Dataset</a>
+- <a href = https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/main/Grocery_Inventory_Data.xlsx>Grocery_Inventory_Dataset</a>
   
 ## Questions (KPI)
   - Produk dan kategori mana yang paling laku dan menguntungkan ?
