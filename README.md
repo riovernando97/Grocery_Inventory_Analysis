@@ -35,8 +35,8 @@ Menganalisis kinerja penjualan, efisiensi manajemen stok, serta kinerja supplier
     - Melihat umur stok tersisa
 
 ## Dashboard (Tableau)
-  <a href = "https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/main/Grocery%20Inventory%20Analysis%20Dashboard.png"></a>
-    
+  <a href="https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/main/Grocery%20Inventory%20Analysis%20Dashboard.png?raw=true">View Dashboard</a>
+
 ## Project Insight
 -	Produk dengan kategori <b>Beverages</b> memiliki margin keuntungan tertinggi (rata-rata 16%).
 -	Kategori <b>Fruits & Vegetables</b> menyumbang 26% total penjualan namun memiliki resiko kadaluarsa tertinggi.
