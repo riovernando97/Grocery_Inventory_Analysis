@@ -35,7 +35,7 @@ Menganalisis kinerja penjualan, efisiensi manajemen stok, serta kinerja supplier
     - Melihat umur stok tersisa
 
 ## Dashboard (Tableau)
-  <a href="https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/main/Grocery%20Inventory%20Analysis%20Dashboard.png?raw=true">View Dashboard</a>
+  <img width="2767" height="1600" alt="Grocery Inventory Dashboard" src="https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/main/Grocery%20Inventory%20Analysis%20Dashboard.png" />
 
 ## Project Insight
 -	Produk dengan kategori <b>Beverages</b> memiliki margin keuntungan tertinggi (rata-rata 16%).
