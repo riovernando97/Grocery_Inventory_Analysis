@@ -15,10 +15,10 @@ Menganalisis kinerja penjualan, efisiensi manajemen stok, serta kinerja supplier
 ## Process
   - Data cleaning dan data transform menggunakan excel (ubah format tanggal, anomali data, pengurutan, dan missing values)
   - Menambah kolom kalkulasi baru :
-    <b>Total_Sales</b> = Unit_Price * Sales_Volume
-    <b>Stock_Values</b> = Unit_Price * Stock_Quantity
-    <b>Profit</b> = Total_Sales * Percentage
-    <b>Days_to_Expire</b> = Expiration_Date - TODAY()
+    - <b>Total_Sales</b> = Unit_Price * Sales_Volume
+    - <b>Stock_Values</b> = Unit_Price * Stock_Quantity
+    - <b>Profit</b> = Total_Sales * Percentage
+    - <b>Days_to_Expire</b> = Expiration_Date - TODAY()
 
 ## KPI Metrics
   - Total Sales
