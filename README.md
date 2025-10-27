@@ -34,8 +34,8 @@ Menganalisis kinerja penjualan, efisiensi manajemen stok, serta kinerja supplier
   - Average Shelf Life Remaining
     - Melihat umur stok tersisa
 
-## Dashboard (Power BI)
-  <img width="2767" height="1600" alt="Coffee Sales Dashboard" src="https://github.com/user-attachments/assets/456aee34-8139-4f26-ac66-9549a2fc32cf" />
+## Dashboard (Tableau)
+  <img>https://github.com/riovernando97/Grocery_Inventory_Analysis/blob/d2b2cc1c2ae9213dbeb028ac58abfd7d1c35b8ae/Grocery%20Inventory%20Analysis%20Dashboard.jpg</img>
 
 ## Project Insight
 -	Produk dengan kategori <b>Beverages</b> memiliki margin keuntungan tertinggi (rata-rata 16%).
